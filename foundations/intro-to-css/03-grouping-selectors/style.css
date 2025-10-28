@@ -6,10 +6,10 @@
 }
 
 .click {
-    background-color: #fff700;
+    background-color: #000000;
+    color: #ffffff;
 }
 
 .no-click {
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #f4f00c;
 }
