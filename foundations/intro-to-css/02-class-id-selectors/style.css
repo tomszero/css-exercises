@@ -5,7 +5,7 @@
     background-color: rgba(223, 95, 95, 0.39);
 }
 
-.odd.big {
+.big {
     font-size: 24px;
 }
 
@@ -17,6 +17,5 @@
 
 #four {
     background-color: rgba(83, 236, 83, 0.43);
-    font-size: 24px;
     font-family: Arial, Helvetica, sans-serif;
 }
