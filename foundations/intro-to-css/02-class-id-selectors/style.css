@@ -3,5 +3,20 @@
 .odd {
     font-family: Verdana, 'DejaVu Sans', sans-serif;
     background-color: rgba(223, 95, 95, 0.39);
-    color: rgb(255, 255, 255);
+}
+
+.odd.big {
+    font-size: 24px;
+}
+
+#two{
+    color: rgb(23, 23, 207);
+    font-size: 36px;
+    font-family: 'Times New Roman', Courier, monospace;
+}
+
+#four {
+    background-color: rgba(83, 236, 83, 0.43);
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
 }
